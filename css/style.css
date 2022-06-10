@@ -6,3 +6,11 @@ body{
     background-color: black;
     
 }
+#cabecera{
+    width: 300px;
+    font-size: 40px;
+    border-radius: 4px;
+    border: 1px solid rgb(248, 239, 239);
+    background-color: burlywood;
+    box-shadow: 2px 4px 2px white;
+}
